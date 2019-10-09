@@ -1,6 +1,7 @@
 var calculadora = {
-    sumar: function sumarNumeros(n1, n2) {
-       //
+    sumar: function sumarNumeros(n1, n2) {  
+        return n1 - n2;
+        // Fito 007
     },
 
     restar: function restarNumeros(n1, n2) {
